@@ -377,6 +377,3 @@ if __name__ == "__main__":
         args.character_threshold = args.thresh
 
     main(args)
-
-    
-    print("Anisah")
